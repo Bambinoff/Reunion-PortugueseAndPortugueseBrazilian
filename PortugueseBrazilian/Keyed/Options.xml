@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <Reunion.MinimumProbability>Probabilidade minima de gerar (X/100)</Reunion.MinimumProbability>
+  <Reunion.ProbabilityIncrementStep>Probabilidade para aumentar depois da falha para criar (X/100)</Reunion.ProbabilityIncrementStep>
+  <Reunion.AllowEventWandererJoins>Permitir evento "Aldeão se junta" </Reunion.AllowEventWandererJoins>
+  <Reunion.AllowEventRefugeeChased>Permitir evento "Refugiado perseguido" </Reunion.AllowEventRefugeeChased>
+  <Reunion.AllowEventPrisonerRescue>Permitir evento "Resgate de prisioneiro" </Reunion.AllowEventPrisonerRescue>
+  <Reunion.AllowEventDownedRefugee>Permitir evento "Refugiado caido" </Reunion.AllowEventDownedRefugee>
+  <Reunion.AllowEventRefugeePodCrash>Permitir evento "Cápsula de refugiado" </Reunion.AllowEventRefugeePodCrash>
+</LanguageData>
